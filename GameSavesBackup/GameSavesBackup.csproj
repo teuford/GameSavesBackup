@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>disable</ImplicitUsings>
     <UserSecretsId>dotnet-GameSavesBackup-1703139d-1a80-4ce1-86eb-09b7adc1b7db</UserSecretsId>
   </PropertyGroup>
 
